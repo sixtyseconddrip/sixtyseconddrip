@@ -21,7 +21,7 @@ Building **SixtySecondDrip**, one repo at a time.
     <img src="icons/x-ssd.png" width="45" height="45" style="margin: 0 10px;">
   </a>
   <a href="https://youtube.com/@sixtyseconddrip" target="_blank">
-    <img src="icons/youtube-ssd.pngwidth="45" height="45" style="margin: 0 10px;">
+    <img src="icons/youtube-ssd.png" width="45" height="45" style="margin: 0 10px;">
   </a>
 </p>
 
