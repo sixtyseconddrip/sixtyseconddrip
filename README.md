@@ -9,19 +9,19 @@ Building **SixtySecondDrip**, one repo at a time.
 
 <p align="center">
   <a href="https://instagram.com/sixtyseconddrip" target="_blank">
-    <img src="icons/instagram-ssd.png" alt="Instagram" width="40" height="40">
+    <img src="icons/instagram-ssd.png" alt="Instagram" width="45" height="45">
   </a>
   <a href="https://tiktok.com/@sixtyseconddrip" target="_blank">
-    <img src="icons/tiktok-ssd.png" alt="TikTok" width="40" height="40">
+    <img src="icons/tiktok-ssd.png" alt="TikTok" width="45" height="45">
   </a>
   <a href="https://sixtyseconddrip.com" target="_blank">
-    <img src="icons/www-ssd.png" alt="Website" width="40" height="40">
+    <img src="icons/www-ssd.png" alt="Website" width="45" height="45">
   </a>
   <a href="https://x.com/sixtyseconddrip" target="_blank">
-    <img src="icons/x-ssd.png" alt="X" width="40" height="40">
+    <img src="icons/x-ssd.png" alt="X" width="45" height="45">
   </a>
   <a href="https://youtube.com/@sixtyseconddrip" target="_blank">
-    <img src="icons/youtube-ssd.png" alt="YouTube" width="40" height="40">
+    <img src="icons/youtube-ssd.png" alt="YouTube" width="45" height="45">
   </a>
 </p>
 
