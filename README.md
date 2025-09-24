@@ -1,11 +1,15 @@
-# SixtySecondDrip 🌐
+<!-- Profile README for SixtySecondDrip -->
 
-Daily insights on tech, investing, & random facts.  
-Building **SixtySecondDrip**, one repo at a time.
+<div align="center">
+
+#  SixtySecondDrip
+
+### Daily insights on tech, investing, & random facts  
+*Building one repo at a time.*
 
 ---
 
-## 🌟 Connect with me
+## 🌐 Connect with me  
 
 <p align="center">
   <a href="https://instagram.com/sixtyseconddrip" target="_blank"><img src="icons/instagram-ssd.png" width="45" height="45" style="margin:0 10px;"></a>
@@ -15,10 +19,13 @@ Building **SixtySecondDrip**, one repo at a time.
   <a href="https://youtube.com/@sixtyseconddrip" target="_blank"><img src="icons/youtube-ssd.png" width="45" height="45" style="margin:0 10px;"></a>
 </p>
 
+</div>
 
----
+<div align="right">
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/57bde7c0-e9a0-40b1-86be-bc1aebf06431/deploy-status)](https://app.netlify.com/sites/sixtyseconddrip/deploys)
+
+</div>
 
 
 <!--
