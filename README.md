@@ -9,19 +9,19 @@ Building **SixtySecondDrip**, one repo at a time.
 
 <p align="center">
   <a href="https://instagram.com/sixtyseconddrip" target="_blank">
-    <img src="icons/instagram-ssd.png" alt="" width="45" height="45" style="margin: 0 10px;">
+    <img src="icons/instagram-ssd.png" width="45" height="45" style="margin: 0 10px;">
   </a>
   <a href="https://tiktok.com/@sixtyseconddrip" target="_blank">
-    <img src="icons/tiktok-ssd.png" alt="" width="45" height="45" style="margin: 0 10px;">
+    <img src="icons/tiktok-ssd.png" width="45" height="45" style="margin: 0 10px;">
   </a>
   <a href="https://sixtyseconddrip.com" target="_blank">
-    <img src="icons/www-ssd.png" alt="" width="45" height="45" style="margin: 0 10px;">
+    <img src="icons/www-ssd.png" width="45" height="45" style="margin: 0 10px;">
   </a>
   <a href="https://x.com/sixtyseconddrip" target="_blank">
-    <img src="icons/x-ssd.png" alt="" width="45" height="45" style="margin: 0 10px;">
+    <img src="icons/x-ssd.png" width="45" height="45" style="margin: 0 10px;">
   </a>
   <a href="https://youtube.com/@sixtyseconddrip" target="_blank">
-    <img src="icons/youtube-ssd.png" alt="" width="45" height="45" style="margin: 0 10px;">
+    <img src="icons/youtube-ssd.pngwidth="45" height="45" style="margin: 0 10px;">
   </a>
 </p>
 
