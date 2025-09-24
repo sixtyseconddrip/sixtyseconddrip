@@ -9,19 +9,19 @@ Building **SixtySecondDrip**, one repo at a time.
 
 <p align="center">
   <a href="https://instagram.com/sixtyseconddrip" target="_blank">
-    <img src="icons/instagram.png" alt="Instagram" width="40" height="40">
+    <img src="icons/instagram-ssd.png" alt="Instagram" width="40" height="40">
   </a>
   <a href="https://tiktok.com/@sixtyseconddrip" target="_blank">
-    <img src="icons/tiktok.png" alt="TikTok" width="40" height="40">
+    <img src="icons/tiktok-ssd.png" alt="TikTok" width="40" height="40">
   </a>
   <a href="https://sixtyseconddrip.com" target="_blank">
-    <img src="icons/www.png" alt="Website" width="40" height="40">
+    <img src="icons/www-ssd.png" alt="Website" width="40" height="40">
   </a>
   <a href="https://x.com/sixtyseconddrip" target="_blank">
-    <img src="icons/x.png" alt="X" width="40" height="40">
+    <img src="icons/x-ssd.png" alt="X" width="40" height="40">
   </a>
   <a href="https://youtube.com/@sixtyseconddrip" target="_blank">
-    <img src="icons/youtube.png" alt="YouTube" width="40" height="40">
+    <img src="icons/youtube-ssd.png" alt="YouTube" width="40" height="40">
   </a>
 </p>
 
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
   - TO ADD LATER -
   <a href="mailto:youremail@example.com" target="_blank" rel="noopener">
-    <img src="icons/email.png" alt="Email" width="40" />
+    <img src="icons/email-ssd.png" alt="Email" width="40" />
   </a>
 
 -->
