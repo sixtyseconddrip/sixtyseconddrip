@@ -1,4 +1,7 @@
-<!-- Profile README for SixtySecondDrip -->
+<!-- 
+  Profile README for SixtySecondDrip 
+    **sixtyseconddrip/sixtyseconddrip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                                                                                                                                          -->
 
 <div align="center">
 
@@ -29,7 +32,7 @@
 
 
 <!--
-**sixtyseconddrip/sixtyseconddrip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - TO ADD LATER -
 
 Here are some ideas to get you started:
 
@@ -42,7 +45,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-  - TO ADD LATER -
+ 
   <a href="mailto:youremail@example.com" target="_blank" rel="noopener">
     <img src="icons/email-ssd.png" alt="Email" width="40" />
   </a>
