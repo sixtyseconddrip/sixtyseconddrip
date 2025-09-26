@@ -26,7 +26,8 @@
 
 <div align="right">
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/57bde7c0-e9a0-40b1-86be-bc1aebf06431/deploy-status)](https://app.netlify.com/sites/sixtyseconddrip/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/57bde7c0-e9a0-40b1-86be-bc1aebf06431/deploy-status)](https://app.netlify.com/sites/sixtyseconddrip/deploys) <br />
+![Joined](https://img.shields.io/badge/Joined_-10.17.2025-009cff?style=flat)
 
 </div>
 
